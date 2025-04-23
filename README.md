@@ -2,9 +2,6 @@
 
 ExploreEase is an innovative, AI-powered travel planning application that delivers **personalized travel recommendations** through a **conversational chatbot interface**. Built using **Streamlit** and powered by the **TaskflowAI** framework, the system orchestrates multiple intelligent agents to help users explore destinations, research activities, and find real-time flight options.
 
-This project was developed as part of a **Master of Science in Data Science at SVKM’s NMIMS University** and is detailed in the thesis titled:  
-> *"ExploreEase: A Multi-Agent Conversational AI System for Intelligent Travel Planning"*
-
 ---
 
 ## 🌟 Features
